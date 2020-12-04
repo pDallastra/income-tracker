@@ -20,8 +20,8 @@ export default {
 </script>
 
 <style scoped>
-/* .income-list {
+.income-list {
     margin-top: 30px;
     padding: 15px;
-} */
+}
 </style>

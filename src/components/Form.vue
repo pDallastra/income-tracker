@@ -45,7 +45,7 @@ export default {
 </script>
 
 <style scoped>
-/* form {
+form {
     display: flex;
     justify-content: center;
     margin-top: 30px;
@@ -80,5 +80,5 @@ form input:first-of-type {
 
 form input:last-of-type {
     border-radius: 0px 8px 8px 0px;
-} */
+}
 </style>

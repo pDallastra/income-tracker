@@ -14,7 +14,7 @@ export default {
 </script>
 
 <style scoped>
-/* header {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -40,5 +40,5 @@ header .total-income {
     border-radius: 9px;
     box-shadow: inset 0 0 6px #00000040;
     text-shadow: 0 3px 3px #00000040;
-} */
+}
 </style>

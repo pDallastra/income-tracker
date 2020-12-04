@@ -28,7 +28,7 @@ export default {
 </script>
 
 <style>
-/* .incomeItem {
+.incomeItem {
     position: relative;
     display: flex;
     padding: 15px 15px 15px 0;
@@ -63,5 +63,5 @@ export default {
     color: #666;
     text-align: right;
     font-size: 20px;
-} */
+}
 </style>
